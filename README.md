@@ -5,6 +5,7 @@ From UTM, Malaysia
 ------------------
 
 A first year student in Bachelor of Computer Science (Computer Networks & Security)
+Currently studying in Semester 1 2023/2024
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [nikbalqis@graduate.utm.my](mailto:nikbalqis@graduate.utm.my)
