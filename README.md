@@ -10,6 +10,15 @@ A first year student in Bachelor of Computer Science (Computer Networks & Securi
 * 🖥️  See my portfolio at [Nik\_Balqis\_E-Portfolio](http://nikbalqis.github.io/)
 * ✉️  You can contact me at [nikbalqis@graduate.utm.my](mailto:nikbalqis@graduate.utm.my)
 * 🧠  I'm learning in Semester 1 2023/2024
+* ⚡  The courses I am taking this semester are:
+  - SECI1013 DISCRETE STRUCTURE
+  - SECJ1013 Programming Technique 1
+  - SECP1513 Technology and Information System
+  - SECR1013 Digital Logic
+  - ULRS1032 Kursus Integriti dan Anti-Rasuah
+* 🤝  Projects I have done this semester:
+  - Design Thinking Prototype: Electric Stove Controller App [SECP1513]
+  - Lift Electronic Controller System (Using Deeds Software) [SECR1013]
 
 ### Skills
 
